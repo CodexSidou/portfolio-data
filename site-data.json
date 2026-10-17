@@ -5,9 +5,9 @@
     "fr": {
       "hero.badge": "Disponible pour le travail",
       "hero.greeting": "Bonjour, je suis",
-      "hero.name": "Anid Wrooks",
+      "hero.name": "codewithsidou",
       "hero.split": "Créatif",
-      "hero.profession1": "Architecte",
+      "hero.profession1": "Développeur",
       "hero.profession2": "& Designer",
       "hero.scrollText": "Défiler vers le bas",
       "about.title": "La Créativité",
@@ -86,9 +86,9 @@
     "ar": {
       "hero.badge": "متاح للعمل",
       "hero.greeting": "مرحباً، أنا",
-      "hero.name": "Anid Wrooks",
+      "hero.name": "codewithsidou",
       "hero.split": "مبدع",
-      "hero.profession1": "معماري",
+      "hero.profession1": "مطور",
       "hero.profession2": "و مصمم",
       "hero.scrollText": "مرّر للأسفل",
       "about.title": "الإبداع",
@@ -168,9 +168,9 @@
   "hero": {
     "badge": "Available for work",
     "greeting": "Hello, I'm",
-    "name": "Anid Wrooks",
+    "name": "codewithsidou",
     "split": "Creative",
-    "profession1": "Architect",
+    "profession1": "Developer",
     "profession2": "& Designer",
     "scrollText": "Scroll Down",
     "photo": ""
