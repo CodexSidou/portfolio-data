@@ -1,0 +1,526 @@
+{
+  "language": "en",
+  "translations": {
+    "en": {},
+    "fr": {
+      "hero.badge": "Disponible pour le travail",
+      "hero.greeting": "Bonjour, je suis",
+      "hero.name": "Anid Wrooks",
+      "hero.split": "Créatif",
+      "hero.profession1": "Architecte",
+      "hero.profession2": "& Designer",
+      "hero.scrollText": "Défiler vers le bas",
+      "about.title": "La Créativité",
+      "about.titleHighlight": "Est Ma Passion",
+      "about.description": "Je suis <b>développeur et designer web</b>, passionné par l'expérimentation de <b>nouvelles compétences et idées créatives.</b> Poussé par l'apprentissage et la curiosité, je cherche toujours à explorer et acquérir de nouvelles compétences en développement et en design.",
+      "projects.title": "Je réalise des",
+      "projects.titleHighlight": "Projets Incroyables",
+      "projects.items.0.tag": "Web",
+      "projects.items.0.title": "Site de Barbier",
+      "projects.items.0.subtitle": "Technologies utilisées",
+      "projects.items.0.description": "HTML, CSS, JavaScript, Gsap, Swiper Js et Figma.",
+      "projects.items.1.tag": "Design",
+      "projects.items.1.title": "Interface pour Glacier",
+      "projects.items.1.subtitle": "Technologies utilisées",
+      "projects.items.1.description": "HTML, CSS, JavaScript, Gsap, Swiper Js et Figma.",
+      "projects.items.2.tag": "Web",
+      "projects.items.2.title": "SEO pour Sites de Café",
+      "projects.items.2.subtitle": "Technologies utilisées",
+      "projects.items.2.description": "HTML, CSS, JavaScript, Gsap, Swiper Js et Figma.",
+      "projects.items.3.tag": "Design",
+      "projects.items.3.title": "Design Web pour Restaurant",
+      "projects.items.3.subtitle": "Technologies utilisées",
+      "projects.items.3.description": "HTML, CSS, JavaScript, Gsap, Swiper Js et Figma.",
+      "projects.items.4.tag": "Web",
+      "projects.items.4.title": "Site de Fast Food",
+      "projects.items.4.subtitle": "Technologies utilisées",
+      "projects.items.4.description": "HTML, CSS, JavaScript, Gsap, Swiper Js et Figma.",
+      "workSection.title": "Mon",
+      "workSection.titleHighlight": "Expérience",
+      "work.experience.0.title": "Développeur Web",
+      "work.experience.0.subtitle": "Google Inc",
+      "work.experience.0.description": "Développeur web gérant des technologies telles que Angular, les bases de données, les CMS, et contribuant à l'optimisation web.",
+      "work.experience.1.title": "Designer Web",
+      "work.experience.1.subtitle": "Google Inc",
+      "work.experience.1.description": "Développeur web gérant des technologies telles que Angular, les bases de données, les CMS, et contribuant à l'optimisation web.",
+      "work.experience.2.title": "SEO & Optimisation Web",
+      "work.experience.2.subtitle": "Google Inc",
+      "work.experience.2.description": "Développeur web gérant des technologies telles que Angular, les bases de données, les CMS, et contribuant à l'optimisation web.",
+      "work.education.0.title": "Ingénierie des Systèmes",
+      "work.education.0.subtitle": "Université",
+      "work.education.0.description": "Étudiant, apprendre les bases de la programmation, du développement web et d'autres sujets, diplômé avec les honneurs.",
+      "work.education.1.title": "Programmation Web",
+      "work.education.1.subtitle": "Université",
+      "work.education.1.description": "Étudiant, apprendre les bases de la programmation, du développement web et d'autres sujets, diplômé avec les honneurs.",
+      "work.education.2.title": "Utilisabilité (UX/UI)",
+      "work.education.2.subtitle": "Université",
+      "work.education.2.description": "Étudiant, apprendre les bases de la programmation, du développement web et d'autres sujets, diplômé avec les honneurs.",
+      "services.title": "Ce que je",
+      "services.titleHighlight": "Propose",
+      "services.items.0.title": "Développeur",
+      "services.items.0.description": "Création de sites web avec HTML, CSS, JavaScript. Des sites professionnels avec TypeScript, React, Node JS et beaucoup de créativité.",
+      "services.items.0.skills": "HTML, CSS, JavaScript, React, TypeScript, Node Js, Next Js, PHP, GitHub",
+      "services.items.1.title": "Design",
+      "services.items.1.description": "Web designer avec Figma et Sketch, créant des motions designs avec After Effects, la créativité et le design à leur meilleur.",
+      "services.items.1.skills": "Figma, Adobe XD, Photoshop, Illustrator, Sketch, Modélisation 3D, After Effects",
+      "testimonials.title": "Ce qu'ils disent",
+      "testimonials.titleHighlight": "de Moi",
+      "testimonials.items.0.name": "Abex Wrooks",
+      "testimonials.items.0.role": "Client",
+      "testimonials.items.0.description": "L'entreprise propose de nombreux services faciles à utiliser, avec un travail acharné et un support disponible 24h/24 sur tous les projets.",
+      "testimonials.items.1.name": "Willer Morth",
+      "testimonials.items.1.role": "Client",
+      "testimonials.items.1.description": "L'entreprise propose de nombreux services faciles à utiliser, avec un travail acharné et un support disponible 24h/24 sur tous les projets.",
+      "testimonials.items.2.name": "Llemi Llorens",
+      "testimonials.items.2.role": "Client",
+      "testimonials.items.2.description": "L'entreprise propose de nombreux services faciles à utiliser, avec un travail acharné et un support disponible 24h/24 sur tous les projets.",
+      "testimonials.items.3.name": "Jems Guiller",
+      "testimonials.items.3.role": "Client",
+      "testimonials.items.3.description": "L'entreprise propose de nombreux services faciles à utiliser, avec un travail acharné et un support disponible 24h/24 sur tous les projets.",
+      "contact.title": "Contactez-Moi",
+      "contact.description": "Parlez-moi de votre prochain projet.",
+      "contact.socialHeading": "Réseaux Sociaux",
+      "contact.socialSub": "Écrivez-moi & nous parlerons",
+      "footer.copy": "Fabriqué avec passion, conçu pour impressionner"
+    },
+    "ar": {
+      "hero.badge": "متاح للعمل",
+      "hero.greeting": "مرحباً، أنا",
+      "hero.name": "Anid Wrooks",
+      "hero.split": "مبدع",
+      "hero.profession1": "معماري",
+      "hero.profession2": "و مصمم",
+      "hero.scrollText": "مرّر للأسفل",
+      "about.title": "الإبداع",
+      "about.titleHighlight": "هو شغفي",
+      "about.description": "أنا <b>مطوّر ومصمم ويب</b> شغوف بتجربة <b>مهارات وأفكار إبداعية</b> جديدة. مدفوع بالتعلم والفضول، أسعى دائماً لاستكشاف وتعلّم مهارات تطوير وتصميم جديدة.",
+      "projects.title": "أصنع مشاريع",
+      "projects.titleHighlight": "مذهلة",
+      "projects.items.0.tag": "ويب",
+      "projects.items.0.title": "موقع حلاقة",
+      "projects.items.0.subtitle": "التقنيات المستخدمة",
+      "projects.items.0.description": "HTML، CSS، JavaScript، Gsap، Swiper Js وFigma.",
+      "projects.items.1.tag": "تصميم",
+      "projects.items.1.title": "تصميم واجهة لمتجر آيس كريم",
+      "projects.items.1.subtitle": "التقنيات المستخدمة",
+      "projects.items.1.description": "HTML، CSS، JavaScript، Gsap، Swiper Js وFigma.",
+      "projects.items.2.tag": "ويب",
+      "projects.items.2.title": "SEO لمواقع القهوة",
+      "projects.items.2.subtitle": "التقنيات المستخدمة",
+      "projects.items.2.description": "HTML، CSS، JavaScript، Gsap، Swiper Js وFigma.",
+      "projects.items.3.tag": "تصميم",
+      "projects.items.3.title": "تصميم ويب لمطعم",
+      "projects.items.3.subtitle": "التقنيات المستخدمة",
+      "projects.items.3.description": "HTML، CSS، JavaScript، Gsap، Swiper Js وFigma.",
+      "projects.items.4.tag": "ويب",
+      "projects.items.4.title": "موقع وجبات سريعة",
+      "projects.items.4.subtitle": "التقنيات المستخدمة",
+      "projects.items.4.description": "HTML، CSS، JavaScript، Gsap، Swiper Js وFigma.",
+      "workSection.title": "مسيرتي",
+      "workSection.titleHighlight": "الخبرة",
+      "work.experience.0.title": "مطوّر ويب",
+      "work.experience.0.subtitle": "Google Inc",
+      "work.experience.0.description": "مطوّر ويب يتعامل مع تقنيات مثل Angular وقواعد البيانات وإدارة المحتوى، ويساهم في تحسين أداء الويب.",
+      "work.experience.1.title": "مصمم ويب",
+      "work.experience.1.subtitle": "Google Inc",
+      "work.experience.1.description": "مطوّر ويب يتعامل مع تقنيات مثل Angular وقواعد البيانات وإدارة المحتوى، ويساهم في تحسين أداء الويب.",
+      "work.experience.2.title": "SEO وتحسين الويب",
+      "work.experience.2.subtitle": "Google Inc",
+      "work.experience.2.description": "مطوّر ويب يتعامل مع تقنيات مثل Angular وقواعد البيانات وإدارة المحتوى، ويساهم في تحسين أداء الويب.",
+      "work.education.0.title": "هندسة النظم",
+      "work.education.0.subtitle": "الجامعة",
+      "work.education.0.description": "طالب يتعلم أساسيات البرمجة وتطوير الويب ومواضيع أخرى، وتخرج بمرتبة الشرف.",
+      "work.education.1.title": "برمجة الويب",
+      "work.education.1.subtitle": "الجامعة",
+      "work.education.1.description": "طالب يتعلم أساسيات البرمجة وتطوير الويب ومواضيع أخرى، وتخرج بمرتبة الشرف.",
+      "work.education.2.title": "سهولة الاستخدام (UX/UI)",
+      "work.education.2.subtitle": "الجامعة",
+      "work.education.2.description": "طالب يتعلم أساسيات البرمجة وتطوير الويب ومواضيع أخرى، وتخرج بمرتبة الشرف.",
+      "services.title": "ما",
+      "services.titleHighlight": "أقدّمه",
+      "services.items.0.title": "مطوّر",
+      "services.items.0.description": "إنشاء مواقع ويب باستخدام HTML وCSS وJavaScript. مواقع احترافية باستخدام TypeScript وReact وNode JS والكثير من الإبداع.",
+      "services.items.0.skills": "HTML, CSS, JavaScript, React, TypeScript, Node Js, Next Js, PHP, GitHub",
+      "services.items.1.title": "تصميم",
+      "services.items.1.description": "مصمم ويب باستخدام Figma وSketch، وابتكار تصميمات متحركة باستخدام After Effects، إبداع وتصميم بأفضل مستوى.",
+      "services.items.1.skills": "Figma, Adobe XD, Photoshop, Illustrator, Sketch, النمذجة ثلاثية الأبعاد, After Effects",
+      "testimonials.title": "ما يقولونه",
+      "testimonials.titleHighlight": "عني",
+      "testimonials.items.0.name": "Abex Wrooks",
+      "testimonials.items.0.role": "عميل",
+      "testimonials.items.0.description": "تقدم الشركة العديد من الخدمات سهلة الاستخدام، مع عمل شاق ودعم على مدار الساعة في جميع المشاريع.",
+      "testimonials.items.1.name": "Willer Morth",
+      "testimonials.items.1.role": "عميل",
+      "testimonials.items.1.description": "تقدم الشركة العديد من الخدمات سهلة الاستخدام، مع عمل شاق ودعم على مدار الساعة في جميع المشاريع.",
+      "testimonials.items.2.name": "Llemi Llorens",
+      "testimonials.items.2.role": "عميل",
+      "testimonials.items.2.description": "تقدم الشركة العديد من الخدمات سهلة الاستخدام، مع عمل شاق ودعم على مدار الساعة في جميع المشاريع.",
+      "testimonials.items.3.name": "Jems Guiller",
+      "testimonials.items.3.role": "عميل",
+      "testimonials.items.3.description": "تقدم الشركة العديد من الخدمات سهلة الاستخدام، مع عمل شاق ودعم على مدار الساعة في جميع المشاريع.",
+      "contact.title": "تواصل معي",
+      "contact.description": "أخبرني عن مشروعك القادم.",
+      "contact.socialHeading": "وسائل التواصل",
+      "contact.socialSub": "اكتب لي وسنتحدث",
+      "footer.copy": "صُنع بشغف، صُمم ليبهر"
+    }
+  },
+  "hero": {
+    "badge": "Available for work",
+    "greeting": "Hello, I'm",
+    "name": "Anid Wrooks",
+    "split": "Creative",
+    "profession1": "Architect",
+    "profession2": "& Designer",
+    "scrollText": "Scroll Down",
+    "photo": ""
+  },
+  "homeSocial": [
+    {
+      "id": "hs1",
+      "icon": "ri-linkedin-fill",
+      "url": "https://www.linkedin.com/",
+      "label": "LinkedIn"
+    },
+    {
+      "id": "hs2",
+      "icon": "ri-github-fill",
+      "url": "https://github.com/",
+      "label": "GitHub"
+    },
+    {
+      "id": "hs3",
+      "icon": "ri-dribbble-fill",
+      "url": "https://dribbble.com/",
+      "label": "Dribbble"
+    },
+    {
+      "id": "hs4",
+      "icon": "ri-gitlab-fill",
+      "url": "https://about.gitlab.com/",
+      "label": "GitLab"
+    }
+  ],
+  "stats": {
+    "items": [
+      {
+        "id": "st1",
+        "number": "5+",
+        "label": "Years of Experience"
+      },
+      {
+        "id": "st2",
+        "number": "20+",
+        "label": "Projects Completed"
+      },
+      {
+        "id": "st3",
+        "number": "15+",
+        "label": "Happy Clients"
+      },
+      {
+        "id": "st4",
+        "number": "3",
+        "label": "Countries Served"
+      }
+    ]
+  },
+  "skills": {
+    "items": [
+      {
+        "id": "sk1",
+        "icon": "ri-html5-fill",
+        "name": "HTML5"
+      },
+      {
+        "id": "sk2",
+        "icon": "ri-css3-fill",
+        "name": "CSS3"
+      },
+      {
+        "id": "sk3",
+        "icon": "ri-javascript-fill",
+        "name": "JavaScript"
+      },
+      {
+        "id": "sk4",
+        "icon": "ri-figma-fill",
+        "name": "Figma"
+      },
+      {
+        "id": "sk5",
+        "icon": "ri-reactjs-fill",
+        "name": "React"
+      },
+      {
+        "id": "sk6",
+        "icon": "ri-nodejs-line",
+        "name": "Node Js"
+      }
+    ]
+  },
+  "about": {
+    "title": "Creativity",
+    "titleHighlight": "Is My Passion",
+    "description": "I'm a web <b>developer and designer</b> passionate about experimenting with new <b>skills and creativity.</b> Driven by learning and curiosity, I'm always looking to explore and learn new development and design skills.",
+    "photo": ""
+  },
+  "projects": {
+    "title": "I Make Incredible",
+    "titleHighlight": "Projects",
+    "items": [
+      {
+        "id": "p1",
+        "tag": "Web",
+        "title": "Barbershop website",
+        "subtitle": "Technologies used",
+        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
+        "image": "assets/img/projects-1.png",
+        "link": "",
+        "gallery": [],
+        "videos": []
+      },
+      {
+        "id": "p2",
+        "tag": "Design",
+        "title": "Interface Design For Ice Cream Shop",
+        "subtitle": "Technologies used",
+        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
+        "image": "assets/img/projects-2.png",
+        "link": "",
+        "gallery": [],
+        "videos": []
+      },
+      {
+        "id": "p3",
+        "tag": "Web",
+        "title": "SEO For Coffee Websites",
+        "subtitle": "Technologies used",
+        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
+        "image": "assets/img/projects-3.png",
+        "link": "",
+        "gallery": [],
+        "videos": []
+      },
+      {
+        "id": "p4",
+        "tag": "Design",
+        "title": "Web Design For Restaurant",
+        "subtitle": "Technologies used",
+        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
+        "image": "assets/img/projects-4.png",
+        "link": "",
+        "gallery": [],
+        "videos": []
+      },
+      {
+        "id": "p5",
+        "tag": "Web",
+        "title": "Fast Food Website",
+        "subtitle": "Technologies used",
+        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
+        "image": "assets/img/projects-5.png",
+        "link": "",
+        "gallery": [],
+        "videos": []
+      }
+    ]
+  },
+  "workSection": {
+    "title": "My Work",
+    "titleHighlight": "Experience"
+  },
+  "work": {
+    "experience": [
+      {
+        "id": "we1",
+        "icon": "ri-code-s-slash-line",
+        "title": "Web Developer",
+        "subtitle": "Google Inc",
+        "year": "2020",
+        "description": "Web developer handling technologies such as Angular, databases, CMS, assisting with web optimization."
+      },
+      {
+        "id": "we2",
+        "icon": "ri-pen-nib-line",
+        "title": "Web Designer",
+        "subtitle": "Google Inc",
+        "year": "2022",
+        "description": "Web developer handling technologies such as Angular, databases, CMS, assisting with web optimization."
+      },
+      {
+        "id": "we3",
+        "icon": "ri-search-eye-line",
+        "title": "SEO & Web Optimization",
+        "subtitle": "Google Inc",
+        "year": "Now",
+        "description": "Web developer handling technologies such as Angular, databases, CMS, assisting with web optimization."
+      }
+    ],
+    "education": [
+      {
+        "id": "wed1",
+        "icon": "ri-building-2-line",
+        "title": "Systems Engineering",
+        "subtitle": "University",
+        "year": "2010",
+        "description": "College student, learning the basics of programming, web development, and other topics, graduating with honors."
+      },
+      {
+        "id": "wed2",
+        "icon": "ri-code-line",
+        "title": "Web Programming",
+        "subtitle": "University",
+        "year": "2015",
+        "description": "College student, learning the basics of programming, web development, and other topics, graduating with honors."
+      },
+      {
+        "id": "wed3",
+        "icon": "ri-layout-masonry-line",
+        "title": "Usability (UX/UI)",
+        "subtitle": "University",
+        "year": "2018",
+        "description": "College student, learning the basics of programming, web development, and other topics, graduating with honors."
+      }
+    ]
+  },
+  "services": {
+    "title": "What I",
+    "titleHighlight": "Offer",
+    "items": [
+      {
+        "id": "s1",
+        "icon": "ri-code-s-slash-line",
+        "title": "Developer",
+        "description": "Website creation with HTML, CSS, JavaScript. Professional websites with TypeScript, React, Node JS, and lots of creativity.",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "TypeScript",
+          "Node Js",
+          "Next Js",
+          "PHP",
+          "GitHub"
+        ]
+      },
+      {
+        "id": "s2",
+        "icon": "ri-pen-nib-line",
+        "title": "Design",
+        "description": "Web designer with Figma and Sketch, creating motion designs with After Effects, creativity and design at its best.",
+        "skills": [
+          "Figma",
+          "Adobe XD",
+          "Photoshop",
+          "Illustrator",
+          "Sketch",
+          "3D Modeling",
+          "After Effects"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What They Say",
+    "titleHighlight": "About Me",
+    "items": [
+      {
+        "id": "t1",
+        "image": "assets/img/testimonial-1.png",
+        "name": "Abex Wrooks",
+        "role": "Client",
+        "rating": 5,
+        "description": "The company offers many easy-to-use services, with hard work and round-the-clock support on all projects."
+      },
+      {
+        "id": "t2",
+        "image": "assets/img/testimonial-2.png",
+        "name": "Willer Morth",
+        "role": "Client",
+        "rating": 5,
+        "description": "The company offers many easy-to-use services, with hard work and round-the-clock support on all projects."
+      },
+      {
+        "id": "t3",
+        "image": "assets/img/testimonial-3.png",
+        "name": "Llemi Llorens",
+        "role": "Client",
+        "rating": 5,
+        "description": "The company offers many easy-to-use services, with hard work and round-the-clock support on all projects."
+      },
+      {
+        "id": "t4",
+        "image": "assets/img/testimonial-4.png",
+        "name": "Jems Guiller",
+        "role": "Client",
+        "rating": 5,
+        "description": "The company offers many easy-to-use services, with hard work and round-the-clock support on all projects."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "Tell me about your next project.",
+    "email": "anid123@email.com",
+    "emailAlt": "Willer123@email.com",
+    "location": "Lima, Peru",
+    "socialHeading": "Social Media",
+    "socialSub": "Write Me & We'll Talk",
+    "social": [
+      {
+        "id": "cs1",
+        "icon": "ri-linkedin-fill",
+        "url": "https://www.linkedin.com/",
+        "label": "LinkedIn"
+      },
+      {
+        "id": "cs2",
+        "icon": "ri-github-fill",
+        "url": "https://github.com/",
+        "label": "GitHub"
+      },
+      {
+        "id": "cs3",
+        "icon": "ri-dribbble-fill",
+        "url": "https://dribbble.com/",
+        "label": "Dribbble"
+      },
+      {
+        "id": "cs4",
+        "icon": "ri-gitlab-fill",
+        "url": "https://about.gitlab.com/",
+        "label": "GitLab"
+      },
+      {
+        "id": "cs5",
+        "icon": "ri-whatsapp-fill",
+        "url": "https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!",
+        "label": "WhatsApp"
+      },
+      {
+        "id": "cs6",
+        "icon": "ri-messenger-fill",
+        "url": "https://m.me/bedimcode",
+        "label": "Messenger"
+      },
+      {
+        "id": "cs7",
+        "icon": "ri-telegram-fill",
+        "url": "https://t.me/telegram",
+        "label": "Telegram"
+      },
+      {
+        "id": "cs8",
+        "icon": "ri-instagram-fill",
+        "url": "https://www.instagram.com/",
+        "label": "Instagram"
+      }
+    ]
+  },
+  "footer": {
+    "copy": "Crafted with passion, designed to impress",
+    "resumeUrl": "assets/pdf/Anid-Cv.pdf"
+  }
+}
