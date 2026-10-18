@@ -1,6 +1,7 @@
 {
   "deletedProjectIds": [
-    "p1"
+    "p1",
+    "p2"
   ],
   "language": "en",
   "translations": {
@@ -266,17 +267,6 @@
     "title": "I Make Incredible",
     "titleHighlight": "Projects",
     "items": [
-      {
-        "id": "p2",
-        "tag": "Design",
-        "title": "Interface Design For Ice Cream Shop",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-2.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      },
       {
         "id": "p3",
         "tag": "Web",
