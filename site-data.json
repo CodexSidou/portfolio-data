@@ -187,6 +187,12 @@
       "icon": "ri-github-fill",
       "url": "https://github.com/",
       "label": "GitHub"
+    },
+    {
+      "id": "soc_mvd6d4cd4o44s",
+      "icon": "ri-whatsapp-fill",
+      "label": "",
+      "url": ""
     }
   ],
   "stats": {
