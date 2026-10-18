@@ -2,7 +2,9 @@
   "deletedProjectIds": [
     "p1",
     "p2",
-    "p3"
+    "p3",
+    "p4",
+    "p5"
   ],
   "language": "en",
   "translations": {
@@ -267,30 +269,7 @@
   "projects": {
     "title": "I Make Incredible",
     "titleHighlight": "Projects",
-    "items": [
-      {
-        "id": "p4",
-        "tag": "Design",
-        "title": "Web Design For Restaurant",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-4.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      },
-      {
-        "id": "p5",
-        "tag": "Web",
-        "title": "Fast Food Website",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-5.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      }
-    ]
+    "items": []
   },
   "workSection": {
     "title": "My Work",
