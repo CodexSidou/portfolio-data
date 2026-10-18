@@ -187,18 +187,6 @@
       "icon": "ri-github-fill",
       "url": "https://github.com/",
       "label": "GitHub"
-    },
-    {
-      "id": "hs3",
-      "icon": "ri-dribbble-fill",
-      "url": "https://dribbble.com/",
-      "label": "Dribbble"
-    },
-    {
-      "id": "hs4",
-      "icon": "ri-gitlab-fill",
-      "url": "https://about.gitlab.com/",
-      "label": "GitLab"
     }
   ],
   "stats": {
@@ -482,40 +470,16 @@
         "label": "GitHub"
       },
       {
-        "id": "cs3",
-        "icon": "ri-dribbble-fill",
-        "url": "https://dribbble.com/",
-        "label": "Dribbble"
-      },
-      {
-        "id": "cs4",
-        "icon": "ri-gitlab-fill",
-        "url": "https://about.gitlab.com/",
-        "label": "GitLab"
-      },
-      {
         "id": "cs5",
         "icon": "ri-whatsapp-fill",
         "url": "https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!",
         "label": "WhatsApp"
       },
       {
-        "id": "cs6",
-        "icon": "ri-messenger-fill",
-        "url": "https://m.me/bedimcode",
-        "label": "Messenger"
-      },
-      {
         "id": "cs7",
         "icon": "ri-telegram-fill",
         "url": "https://t.me/telegram",
         "label": "Telegram"
-      },
-      {
-        "id": "cs8",
-        "icon": "ri-instagram-fill",
-        "url": "https://www.instagram.com/",
-        "label": "Instagram"
       }
     ]
   },
