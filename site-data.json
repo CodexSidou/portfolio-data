@@ -262,63 +262,7 @@
   "projects": {
     "title": "I Make Incredible",
     "titleHighlight": "Projects",
-    "items": [
-      {
-        "id": "p1",
-        "tag": "Web",
-        "title": "Barbershop website",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-1.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      },
-      {
-        "id": "p2",
-        "tag": "Design",
-        "title": "Interface Design For Ice Cream Shop",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-2.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      },
-      {
-        "id": "p3",
-        "tag": "Web",
-        "title": "SEO For Coffee Websites",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-3.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      },
-      {
-        "id": "p4",
-        "tag": "Design",
-        "title": "Web Design For Restaurant",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-4.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      },
-      {
-        "id": "p5",
-        "tag": "Web",
-        "title": "Fast Food Website",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-5.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      }
-    ]
+    "items": []
   },
   "workSection": {
     "title": "My Work",
