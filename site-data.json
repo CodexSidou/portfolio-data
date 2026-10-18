@@ -1,4 +1,7 @@
 {
+  "deletedProjectIds": [
+    "p1"
+  ],
   "language": "en",
   "translations": {
     "en": {},
@@ -168,7 +171,7 @@
   "hero": {
     "badge": "Available for work",
     "greeting": "Hello, I'm",
-    "name": "codewithsidou",
+    "name": "Sidahmed Tibaoui",
     "split": "Creative",
     "profession1": "Developer",
     "profession2": "& Designer",
@@ -189,16 +192,10 @@
       "label": "GitHub"
     },
     {
-      "id": "hs3",
-      "icon": "ri-dribbble-fill",
-      "url": "https://dribbble.com/",
-      "label": "Dribbble"
-    },
-    {
-      "id": "hs4",
-      "icon": "ri-gitlab-fill",
-      "url": "https://about.gitlab.com/",
-      "label": "GitLab"
+      "id": "soc_mvd6d4cd4o44s",
+      "icon": "ri-whatsapp-fill",
+      "label": "Whatsapp",
+      "url": ""
     }
   ],
   "stats": {
@@ -269,17 +266,6 @@
     "title": "I Make Incredible",
     "titleHighlight": "Projects",
     "items": [
-      {
-        "id": "p1",
-        "tag": "Web",
-        "title": "Barbershop website",
-        "subtitle": "Technologies used",
-        "description": "HTML, CSS, JavaScript, Gsap, Swiper Js and Figma.",
-        "image": "assets/img/projects-1.png",
-        "link": "",
-        "gallery": [],
-        "videos": []
-      },
       {
         "id": "p2",
         "tag": "Design",
@@ -482,46 +468,21 @@
         "label": "GitHub"
       },
       {
-        "id": "cs3",
-        "icon": "ri-dribbble-fill",
-        "url": "https://dribbble.com/",
-        "label": "Dribbble"
-      },
-      {
-        "id": "cs4",
-        "icon": "ri-gitlab-fill",
-        "url": "https://about.gitlab.com/",
-        "label": "GitLab"
-      },
-      {
         "id": "cs5",
         "icon": "ri-whatsapp-fill",
         "url": "https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!",
         "label": "WhatsApp"
       },
       {
-        "id": "cs6",
-        "icon": "ri-messenger-fill",
-        "url": "https://m.me/bedimcode",
-        "label": "Messenger"
-      },
-      {
         "id": "cs7",
         "icon": "ri-telegram-fill",
         "url": "https://t.me/telegram",
         "label": "Telegram"
-      },
-      {
-        "id": "cs8",
-        "icon": "ri-instagram-fill",
-        "url": "https://www.instagram.com/",
-        "label": "Instagram"
       }
     ]
   },
   "footer": {
     "copy": "Crafted with passion, designed to impress",
     "resumeUrl": "assets/pdf/Anid-Cv.pdf"
-  },
-  "deletedProjectIds": []
+  }
 }
